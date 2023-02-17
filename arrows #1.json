@@ -18,7 +18,7 @@
     },
     {
       "id": 4,
-      "name": "L5"
+      "name": "num"
     },
     {
       "id": 5,
@@ -107,10 +107,9 @@
       "label": "F12"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 17152,
+      "label": "NEXT",
+      "extraLabel": "LED"
     },
     {
       "keyCode": 43,
@@ -195,9 +194,8 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 49226,
-      "label": "⇪",
-      "extraLabel": "CTRL/"
+      "keyCode": 43,
+      "label": "TAB"
     },
     {
       "keyCode": 224,
@@ -265,8 +263,8 @@
       "label": "→"
     },
     {
-      "keyCode": 104,
-      "label": "F13"
+      "keyCode": 101,
+      "label": "MENU"
     },
     {
       "keyCode": 0,
@@ -350,9 +348,10 @@
       "extraLabel": "C+"
     },
     {
-      "keyCode": 227,
-      "label": "LEFT WIN",
-      "verbose": "Left Windows"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 225,
@@ -400,8 +399,8 @@
       "extraLabel": "LOCK"
     },
     {
-      "keyCode": 17452,
-      "label": "3",
+      "keyCode": 17454,
+      "label": "5",
       "extraLabel": "SHIFT"
     },
     {
@@ -439,9 +438,10 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 17152,
-      "label": "NEXT",
-      "extraLabel": "LED"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
       "keyCode": 0,
@@ -483,7 +483,7 @@
     1,
     1,
     11,
-    11,
+    3,
     5,
     8,
     8,
@@ -507,7 +507,7 @@
     6,
     6,
     4,
-    4,
+    14,
     4,
     4,
     7,
