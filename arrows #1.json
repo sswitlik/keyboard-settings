@@ -43,8 +43,10 @@
   ],
   "keymap": [
     {
-      "keyCode": 41,
-      "label": "ESC"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 58,
@@ -112,8 +114,10 @@
       "extraLabel": "LED"
     },
     {
-      "keyCode": 43,
-      "label": "TAB"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 53,
@@ -451,14 +455,14 @@
     }
   ],
   "colormap": [
-    4,
+    12,
     8,
     8,
     8,
     8,
     8,
     8,
-    4,
+    12,
     4,
     6,
     8,
