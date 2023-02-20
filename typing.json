@@ -22,7 +22,7 @@
     },
     {
       "id": 5,
-      "name": "L6"
+      "name": "PL"
     },
     {
       "id": 6,
@@ -389,10 +389,9 @@
       "label": "SPACE"
     },
     {
-      "keyCode": 230,
-      "label": "RIGHT ALT",
-      "extraLabel": "",
-      "verbose": "AltGr"
+      "keyCode": 17455,
+      "label": "6",
+      "extraLabel": "SHIFT"
     },
     {
       "keyCode": 0,
@@ -448,8 +447,8 @@
     12,
     4,
     12,
-    1,
-    1,
+    4,
+    4,
     11,
     11,
     12,
@@ -485,7 +484,7 @@
     4,
     12,
     1,
-    1,
+    4,
     11,
     6,
     4,
