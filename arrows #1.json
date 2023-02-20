@@ -114,10 +114,9 @@
       "extraLabel": "LED"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 57,
+      "label": "⇪",
+      "verbose": "Caps Lock"
     },
     {
       "keyCode": 53,
@@ -462,7 +461,7 @@
     8,
     8,
     8,
-    12,
+    7,
     4,
     6,
     8,
@@ -675,9 +674,9 @@
     },
     {
       "r": 0,
-      "g": 0,
-      "b": 0,
-      "rgb": "rgb(0, 0, 0)"
+      "g": 255,
+      "b": 219,
+      "rgb": "rgb(0, 255, 219)"
     },
     {
       "r": 0,

@@ -115,10 +115,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 57,
+      "label": "⇪",
+      "verbose": "Caps Lock"
     },
     {
       "keyCode": 20,
@@ -187,9 +186,8 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 57,
-      "label": "⇪",
-      "verbose": "Caps Lock"
+      "keyCode": 43,
+      "label": "TAB"
     },
     {
       "keyCode": 4,
@@ -428,13 +426,13 @@
     4,
     4,
     4,
-    12,
+    7,
     4,
     4,
     4,
     4,
     4,
-    4,
+    7,
     4,
     4,
     4,
@@ -641,9 +639,9 @@
     },
     {
       "r": 0,
-      "g": 0,
-      "b": 0,
-      "rgb": "rgb(0, 0, 0)"
+      "g": 255,
+      "b": 219,
+      "rgb": "rgb(0, 255, 219)"
     },
     {
       "r": 0,
