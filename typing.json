@@ -180,10 +180,9 @@
       "label": "]"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 17454,
+      "label": "5",
+      "extraLabel": "SHIFT"
     },
     {
       "keyCode": 43,
@@ -365,9 +364,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 17494,
-      "label": "3",
-      "extraLabel": "LOCK"
+      "keyCode": 17454,
+      "label": "5",
+      "extraLabel": "SHIFT"
     },
     {
       "keyCode": 17452,
@@ -449,7 +448,7 @@
     12,
     4,
     4,
-    11,
+    3,
     11,
     12,
     4,
@@ -458,7 +457,7 @@
     4,
     4,
     4,
-    12,
+    3,
     4,
     4,
     4,

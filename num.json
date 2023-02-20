@@ -22,7 +22,7 @@
     },
     {
       "id": 5,
-      "name": "L6"
+      "name": "PL"
     },
     {
       "id": 6,
@@ -43,158 +43,158 @@
   ],
   "keymap": [
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 2097,
       "label": "|"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 95,
@@ -212,46 +212,46 @@
       "extraLabel": "Num"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 45,
@@ -262,34 +262,34 @@
       "label": "="
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 92,
@@ -307,87 +307,82 @@
       "extraLabel": "Num"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 98,
-      "label": "0",
-      "extraLabel": "Num"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 89,
@@ -405,106 +400,111 @@
       "extraLabel": "Num"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 98,
+      "label": "0",
+      "extraLabel": "Num"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     }
   ],
   "colormap": [
@@ -564,19 +564,19 @@
     15,
     15,
     15,
+    12,
     3,
     3,
     3,
+    15,
+    15,
+    15,
+    15,
+    15,
     3,
     15,
     15,
-    15,
-    15,
-    15,
-    15,
-    15,
-    15,
-    15,
+    3,
     3,
     3,
     3,
@@ -728,9 +728,9 @@
     },
     {
       "r": 0,
-      "g": 0,
-      "b": 0,
-      "rgb": "rgb(0, 0, 0)"
+      "g": 255,
+      "b": 219,
+      "rgb": "rgb(0, 255, 219)"
     },
     {
       "r": 0,
