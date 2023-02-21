@@ -152,8 +152,10 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 28,
-      "label": "Y"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 24,
@@ -464,7 +466,7 @@
     4,
     4,
     4,
-    4,
+    15,
     4,
     4,
     4,
@@ -636,10 +638,10 @@
       "rgb": "rgb(214, 144, 144)"
     },
     {
-      "r": 0,
+      "r": 172,
       "g": 255,
-      "b": 219,
-      "rgb": "rgb(0, 255, 219)"
+      "b": 0,
+      "rgb": "rgb(172, 255, 0)"
     },
     {
       "r": 0,
