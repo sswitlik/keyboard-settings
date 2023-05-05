@@ -149,10 +149,9 @@
       "label": "ESC"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 20548,
+      "label": "MIDDLE",
+      "extraLabel": "M.Btn"
     },
     {
       "keyCode": 4432,
@@ -510,7 +509,7 @@
     15,
     15,
     11,
-    15,
+    10,
     10,
     10,
     15,
