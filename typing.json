@@ -174,12 +174,16 @@
       "label": "P"
     },
     {
-      "keyCode": 47,
-      "label": "["
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 48,
-      "label": "]"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 17454,
@@ -460,8 +464,8 @@
     4,
     4,
     3,
-    4,
-    4,
+    12,
+    12,
     4,
     4,
     4,
