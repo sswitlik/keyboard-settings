@@ -209,16 +209,12 @@
       "extraLabel": "AGr+"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 47,
+      "label": "["
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 48,
+      "label": "]"
     },
     {
       "keyCode": 0,
@@ -543,8 +539,8 @@
     15,
     15,
     15,
-    15,
-    15,
+    3,
+    3,
     1,
     15,
     15,
