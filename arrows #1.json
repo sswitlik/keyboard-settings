@@ -400,10 +400,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 17454,
+      "label": "5",
+      "extraLabel": "SHIFT"
     },
     {
       "keyCode": 17452,
@@ -490,7 +489,7 @@
     12,
     6,
     6,
-    12,
+    3,
     11,
     2,
     6,
