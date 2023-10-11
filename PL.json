@@ -339,10 +339,9 @@
       "extraLabel": "AGr+"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 53853,
+      "label": "=>",
+      "extraLabel": "MACRO"
     },
     {
       "keyCode": 0,
@@ -521,7 +520,7 @@
     1,
     1,
     1,
-    15,
+    3,
     15,
     15,
     15,
