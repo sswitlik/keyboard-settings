@@ -168,10 +168,8 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 49,
+      "label": "\\"
     },
     {
       "keyCode": 0,
@@ -508,7 +506,7 @@
     12,
     1,
     15,
-    15,
+    3,
     15,
     1,
     1,
