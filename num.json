@@ -26,7 +26,7 @@
     },
     {
       "id": 6,
-      "name": "L7"
+      "name": "live templates"
     },
     {
       "id": 7,
@@ -277,19 +277,16 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 92,
-      "label": "4",
-      "extraLabel": "Num"
+      "keyCode": 33,
+      "label": "4"
     },
     {
-      "keyCode": 93,
-      "label": "5",
-      "extraLabel": "Num"
+      "keyCode": 34,
+      "label": "5"
     },
     {
-      "keyCode": 94,
-      "label": "6",
-      "extraLabel": "Num"
+      "keyCode": 35,
+      "label": "6"
     },
     {
       "keyCode": 0,
@@ -370,19 +367,16 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 89,
-      "label": "1",
-      "extraLabel": "Num"
+      "keyCode": 30,
+      "label": "1"
     },
     {
-      "keyCode": 90,
-      "label": "2",
-      "extraLabel": "Num"
+      "keyCode": 31,
+      "label": "2"
     },
     {
-      "keyCode": 91,
-      "label": "3",
-      "extraLabel": "Num"
+      "keyCode": 32,
+      "label": "3"
     },
     {
       "keyCode": 0,
@@ -461,9 +455,8 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 98,
-      "label": "0",
-      "extraLabel": "Num"
+      "keyCode": 39,
+      "label": "0"
     },
     {
       "keyCode": 0,
