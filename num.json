@@ -145,24 +145,22 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 30,
-      "label": "1"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 31,
-      "label": "2"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 32,
-      "label": "3"
-    },
-    {
-      "keyCode": 33,
-      "label": "4"
-    },
-    {
-      "keyCode": 34,
-      "label": "5"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 0,
@@ -183,8 +181,22 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 35,
-      "label": "6"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 36,
@@ -199,10 +211,6 @@
       "label": "9"
     },
     {
-      "keyCode": 39,
-      "label": "0"
-    },
-    {
       "keyCode": 0,
       "label": "KEY",
       "extraLabel": "NO",
@@ -239,12 +247,22 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 45,
-      "label": "-"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 46,
-      "label": "="
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 0,
@@ -301,10 +319,10 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 225,
+      "label": "SHIFT",
+      "extraLabel": "LEFT",
+      "verbose": "Left Shift"
     },
     {
       "keyCode": 0,
@@ -491,31 +509,18 @@
     15,
     15,
     15,
+    12,
+    12,
+    12,
+    12,
+    12,
+    15,
+    15,
+    15,
+    15,
+    12,
+    12,
     3,
-    3,
-    3,
-    3,
-    3,
-    15,
-    15,
-    15,
-    15,
-    3,
-    3,
-    15,
-    15,
-    15,
-    15,
-    15,
-    15,
-    15,
-    15,
-    15,
-    15,
-    3,
-    3,
-    15,
-    15,
     15,
     15,
     15,
@@ -527,9 +532,22 @@
     15,
     3,
     3,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    12,
     3,
     3,
     3,
+    12,
     15,
     15,
     15,

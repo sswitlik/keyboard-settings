@@ -26,7 +26,7 @@
     },
     {
       "id": 6,
-      "name": "L7"
+      "name": "live templates"
     },
     {
       "id": 7,
@@ -261,8 +261,10 @@
       "label": "'"
     },
     {
-      "keyCode": 49,
-      "label": "\\"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 225,
@@ -389,9 +391,9 @@
       "extraLabel": "SHIFT"
     },
     {
-      "keyCode": 17494,
-      "label": "3",
-      "extraLabel": "LOCK"
+      "keyCode": 17456,
+      "label": "7",
+      "extraLabel": "SHIFT"
     },
     {
       "keyCode": 44,
@@ -420,10 +422,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 17494,
+      "label": "3",
+      "extraLabel": "LOCK"
     }
   ],
   "colormap": [
@@ -475,26 +476,26 @@
     4,
     4,
     15,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
     12,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    11,
     12,
     4,
     12,
     1,
     4,
-    11,
+    2,
     6,
     4,
     4,

@@ -26,7 +26,7 @@
     },
     {
       "id": 6,
-      "name": "L7"
+      "name": "live templates"
     },
     {
       "id": 7,
@@ -207,12 +207,16 @@
       "extraLabel": "AGr+"
     },
     {
-      "keyCode": 47,
-      "label": "["
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 48,
-      "label": "]"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 0,
@@ -377,12 +381,16 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 47,
-      "label": "["
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 48,
-      "label": "]"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 0,
@@ -536,8 +544,8 @@
     15,
     15,
     15,
-    3,
-    3,
+    12,
+    12,
     1,
     15,
     15,
@@ -551,8 +559,8 @@
     15,
     15,
     15,
-    3,
-    3,
+    12,
+    12,
     15,
     1,
     15,
