@@ -480,9 +480,10 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 231,
-      "label": "RIGHT WIN",
-      "verbose": "Right Windows"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 0,
@@ -561,7 +562,7 @@
     15,
     15,
     15,
-    3,
+    12,
     15,
     3,
     15,
