@@ -315,10 +315,10 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 225,
+      "label": "SHIFT",
+      "extraLabel": "LEFT",
+      "verbose": "Left Shift"
     },
     {
       "keyCode": 65535,
@@ -519,7 +519,7 @@
     0,
     0,
     15,
-    15,
+    0,
     15,
     12,
     12,
