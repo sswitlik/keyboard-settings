@@ -1,4 +1,17 @@
 {
+  "device": {
+    "vendor": "Dygma",
+    "product": "Raise",
+    "keyboardType": "ANSI",
+    "displayName": "Dygma Raise ANSI",
+    "urls": [
+      {
+        "name": "Homepage",
+        "url": "https://www.dygma.com/raise/"
+      }
+    ]
+  },
+  "language": "en-US",
   "layerNames": [
     {
       "id": 0,
@@ -560,21 +573,21 @@
     15,
     15,
     15,
-    11,
+    8,
     12,
     15,
     15,
     15,
     15,
-    11,
-    11,
-    11,
+    8,
+    8,
+    8,
     12,
     15,
     15,
     15,
-    7,
-    7,
+    2,
+    2,
     15,
     15,
     15,
@@ -711,10 +724,10 @@
       "rgb": "rgb(239, 219, 255)"
     },
     {
-      "r": 214,
-      "g": 129,
-      "b": 255,
-      "rgb": "rgb(214, 129, 255)"
+      "r": 255,
+      "g": 0,
+      "b": 152,
+      "rgb": "rgb(255, 0, 152)"
     },
     {
       "r": 255,

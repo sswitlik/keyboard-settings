@@ -1,4 +1,17 @@
 {
+  "device": {
+    "vendor": "Dygma",
+    "product": "Raise",
+    "keyboardType": "ANSI",
+    "displayName": "Dygma Raise ANSI",
+    "urls": [
+      {
+        "name": "Homepage",
+        "url": "https://www.dygma.com/raise/"
+      }
+    ]
+  },
+  "language": "en-US",
   "layerNames": [
     {
       "id": 0,
@@ -110,8 +123,14 @@
     },
     {
       "keyCode": 17152,
-      "label": "NEXT",
-      "extraLabel": "LED"
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {},
+        "_owner": null
+      },
+      "extraLabel": "LED",
+      "verbose": "Next"
     },
     {
       "keyCode": 0,
@@ -467,17 +486,17 @@
     6,
     12,
     6,
-    6,
+    3,
     6,
     6,
     6,
     12,
-    6,
+    8,
     11,
+    7,
+    10,
     6,
-    6,
-    6,
-    6,
+    3,
     15,
     6,
     6,
@@ -485,10 +504,10 @@
     6,
     6,
     12,
+    7,
     12,
-    12,
-    6,
-    6,
+    10,
+    8,
     3,
     11,
     2,
@@ -653,10 +672,10 @@
       "rgb": "rgb(239, 219, 255)"
     },
     {
-      "r": 214,
-      "g": 129,
-      "b": 255,
-      "rgb": "rgb(214, 129, 255)"
+      "r": 255,
+      "g": 0,
+      "b": 152,
+      "rgb": "rgb(255, 0, 152)"
     },
     {
       "r": 255,

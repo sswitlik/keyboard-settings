@@ -1,4 +1,17 @@
 {
+  "device": {
+    "vendor": "Dygma",
+    "product": "Raise",
+    "keyboardType": "ANSI",
+    "displayName": "Dygma Raise ANSI",
+    "urls": [
+      {
+        "name": "Homepage",
+        "url": "https://www.dygma.com/raise/"
+      }
+    ]
+  },
+  "language": "en-US",
   "layerNames": [
     {
       "id": 0,
@@ -116,19 +129,34 @@
     },
     {
       "keyCode": 19682,
-      "label": "🔇",
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {},
+        "_owner": null
+      },
       "extraLabel": "",
-      "verbose": "MUTE"
+      "verbose": "Mute"
     },
     {
       "keyCode": 23786,
-      "label": "🔉",
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {},
+        "_owner": null
+      },
       "extraLabel": "",
       "verbose": "Volume down"
     },
     {
       "keyCode": 23785,
-      "label": "🔊",
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {},
+        "_owner": null
+      },
       "extraLabel": "",
       "verbose": "Volume up"
     },
@@ -156,12 +184,12 @@
     {
       "keyCode": 4432,
       "label": "←",
-      "extraLabel": "C+G+"
+      "extraLabel": "C+O+"
     },
     {
       "keyCode": 4431,
       "label": "→",
-      "extraLabel": "C+G+"
+      "extraLabel": "C+O+"
     },
     {
       "keyCode": 0,
@@ -515,17 +543,17 @@
     11,
     15,
     15,
-    11,
-    11,
-    11,
-    11,
-    11,
+    8,
+    2,
+    2,
+    5,
+    5,
+    3,
     15,
     15,
     15,
     15,
-    15,
-    11,
+    1,
     15,
     15,
     15,
@@ -546,7 +574,7 @@
     15,
     15,
     11,
-    11,
+    5,
     11,
     15,
     15,
@@ -554,12 +582,12 @@
     11,
     11,
     11,
-    11,
+    5,
     12,
     15,
     15,
-    11,
-    11,
+    2,
+    2,
     15,
     15,
     4,
@@ -696,10 +724,10 @@
       "rgb": "rgb(239, 219, 255)"
     },
     {
-      "r": 214,
-      "g": 129,
-      "b": 255,
-      "rgb": "rgb(214, 129, 255)"
+      "r": 255,
+      "g": 0,
+      "b": 152,
+      "rgb": "rgb(255, 0, 152)"
     },
     {
       "r": 255,
